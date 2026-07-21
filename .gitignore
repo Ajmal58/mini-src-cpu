@@ -1,0 +1,23 @@
+# Backup files
+*.bak
+
+# Quartus build/compile artifacts
+db/
+incremental_db/
+output_files/
+*.qws
+*.rpt
+qar_info.json
+assignment_defaults.qdf
+c5_pin_model_dump.txt
+
+# ModelSim simulation artifacts
+simulation/modelsim/rtl_work/
+simulation/modelsim/wlft*
+*.wlf
+modelsim.ini
+msim_transcript
+*.do
+
+# Windows "downloaded from internet" marker files
+*Zone.Identifier*
