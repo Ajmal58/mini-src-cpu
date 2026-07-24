@@ -123,8 +123,6 @@ Key modules:
 
 ## Repository structure
 
-> Adjust this to match your actual files.
-
 ```
 .
 ├── src/            # Verilog modules (datapath, ALU, control unit, memory, CONFF, select-encode)
