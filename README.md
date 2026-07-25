@@ -135,7 +135,7 @@ Key modules:
 
 ## Acknowledgements
 
-Developed as a group project for ELEC 374 (Digital Systems Engineering), Queen's University, Winter 2024.
+Developed as a group project for ELEC 374 (Digital Systems Engineering), Queen's University, Winter 2024, by Ajmal Niazi, Luke Hunker, and Rhys Blakeney.
 
 ---
 
